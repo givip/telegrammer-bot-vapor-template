@@ -132,8 +132,8 @@
         "repositoryURL": "https://github.com/givip/telegrammer-vapor-middleware.git",
         "state": {
           "branch": null,
-          "revision": "c8915d16f073406380a5233a52c5ec1b7ad5523e",
-          "version": "1.0.0-alpha.1"
+          "revision": "e342f960f1ff52f5fa3163347aba97c777d9c003",
+          "version": "1.0.0-alpha.3"
         }
       },
       {
