@@ -1,0 +1,9 @@
+version: "3"
+services:
+  telegrammer-bot-vapor-template:
+    image: telegrammer-bot-vapor-template
+    build: .
+    environment:
+        - TELEGRAM_BOT_TOKEN=Token
+    ports:
+        - 8080:8080
